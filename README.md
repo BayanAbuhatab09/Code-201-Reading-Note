@@ -14,7 +14,7 @@ To understand GitHub, you must first have an understanding of Git. Git is an ope
 |Name         |  link 
 | ----------- | ----------- |
 |             |             |
-|             |             |
+                        
  
  
  include in a table of contents for 15 daily reading assignments but i dont no what they are 
