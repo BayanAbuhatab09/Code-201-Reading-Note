@@ -11,9 +11,9 @@ To understand GitHub, you must first have an understanding of Git. Git is an ope
 
 >Git is the preferred version control system of most developers, since it has multiple advantages over the other systems available. It stores file changes more efficiently and ensures file integrity better. If you’re interested in knowing the details, the Git Basics page has a thorough explanation on how Git works.
 
-|chapter      |  Title
+|Name         |  link 
 | ----------- | ----------- |
-|             | Title       |
+|             |             |
 |             |             |
  
  
